@@ -1,3 +1,5 @@
+/* MegaX0523's STM32F103C8T6 Project */
+
 #include "stm32f10x.h" // Device header
 #include "app.h"
 #include "Interrupt.h"
@@ -23,7 +25,7 @@ int main(void)
 	//	Key_ctl_IC();
 	// 	OLED_DMAShow();z
 	// W25Q64_ShowID();
-	//MySPI_W_SCK(1);
+	// MySPI_W_SCK(1);
 	for (int i = 0; i < 256; i++)
 	{
 		DataC[i] = 255 - i;
