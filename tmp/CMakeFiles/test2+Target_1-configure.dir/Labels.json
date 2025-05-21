@@ -1,0 +1,34 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/study/c-code/testproject2/tmp/CMakeFiles/test2+Target_1-configure"
+		},
+		{
+			"file" : "D:/study/c-code/testproject2/tmp/CMakeFiles/test2+Target_1-configure.rule"
+		},
+		{
+			"file" : "D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-configure.rule"
+		},
+		{
+			"file" : "D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-patch.rule"
+		},
+		{
+			"file" : "D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-update.rule"
+		},
+		{
+			"file" : "D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-download.rule"
+		},
+		{
+			"file" : "D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"test2+Target_1"
+		],
+		"name" : "test2+Target_1-configure"
+	}
+}

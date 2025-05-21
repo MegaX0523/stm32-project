@@ -1,0 +1,26 @@
+build-idx:
+  generated-by: csolution version 2.8.0
+  csolution: test2.csolution.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: test2.cproject.yml
+  cbuilds:
+    - cbuild: test2+Target_1.cbuild.yml
+      project: test2
+      configuration: +Target_1
+      messages:
+        warnings:
+          - test2.cproject.yml:97:17 - 'Driver\MPU6050.c' contains non-portable backslash, use forward slash instead
+          - test2.cproject.yml:98:17 - 'Driver\MPU6050.h' contains non-portable backslash, use forward slash instead
+          - test2.cproject.yml:99:17 - 'Driver\W25Q64.h' contains non-portable backslash, use forward slash instead
+          - test2.cproject.yml:100:17 - 'Driver\W25Q64.c' contains non-portable backslash, use forward slash instead
+          - test2.cproject.yml:101:17 - 'Driver\SPI.c' contains non-portable backslash, use forward slash instead
+          - test2.cproject.yml:102:17 - 'Driver\SPI.h' contains non-portable backslash, use forward slash instead
+          - test2.cproject.yml:103:17 - 'Driver\W25Q64_INS.h' contains non-portable backslash, use forward slash instead
+        info:
+          - test2.cbuild-pack.yml - file is already up-to-date
+          - test2+Target_1.cbuild-run.yml - file generated successfully
+          - test2+Target_1.cbuild.yml - file is already up-to-date
+      packs-unused:
+        - pack: ARM::CMSIS-DSP@1.16.2
+        - pack: ARM::CMSIS-NN@4.1.0

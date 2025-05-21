@@ -1,0 +1,8 @@
+D:/study/c-code/testproject2/tmp/CMakeFiles/database.dir
+D:/study/c-code/testproject2/tmp/CMakeFiles/test2+Target_1.dir
+D:/study/c-code/testproject2/tmp/CMakeFiles/test2+Target_1-build.dir
+D:/study/c-code/testproject2/tmp/CMakeFiles/test2+Target_1-configure.dir
+D:/study/c-code/testproject2/tmp/CMakeFiles/test2+Target_1-executes.dir
+D:/study/c-code/testproject2/tmp/CMakeFiles/test2+Target_1-database.dir
+D:/study/c-code/testproject2/tmp/CMakeFiles/edit_cache.dir
+D:/study/c-code/testproject2/tmp/CMakeFiles/rebuild_cache.dir

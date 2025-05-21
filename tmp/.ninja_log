@@ -1,0 +1,15 @@
+# ninja log v6
+87	147	7666430754306281	D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-download	18904e0a15eb70fc
+37	219	7666526288843651	test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-database	ef5c82fc32133d73
+17	86	7666430753680707	test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-mkdir	cf1f8d353e6d86a1
+218	280	7666430755623310	test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-patch	b52acc8d21e5c438
+17	86	7666430753680707	D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-mkdir	cf1f8d353e6d86a1
+87	147	7666430754306281	test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-download	18904e0a15eb70fc
+148	209	7666430754937107	test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-update	fba39c3dce6304
+148	209	7666430754937107	D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-update	fba39c3dce6304
+218	280	7666430755623310	D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-patch	b52acc8d21e5c438
+280	5396	7666430806794174	test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-configure	58be9d96e47537f8
+280	5396	7666430806794174	D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-configure	58be9d96e47537f8
+37	219	7666526288843651	D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-database	ef5c82fc32133d73
+33	205	7666558552873734	test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-database	ef5c82fc32133d73
+33	205	7666558552873734	D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-database	ef5c82fc32133d73

@@ -1,0 +1,10 @@
+# Target labels
+ test2+Target_1
+# Source files and their labels
+D:/study/c-code/testproject2/tmp/CMakeFiles/test2+Target_1-configure
+D:/study/c-code/testproject2/tmp/CMakeFiles/test2+Target_1-configure.rule
+D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-configure.rule
+D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-patch.rule
+D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-update.rule
+D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-download.rule
+D:/study/c-code/testproject2/tmp/test2+Target_1/src/test2+Target_1-stamp/test2+Target_1-mkdir.rule

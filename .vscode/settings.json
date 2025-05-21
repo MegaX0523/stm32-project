@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "interrupt.h": "c",
+        "app.h": "c",
+        "delay.h": "c",
+        "stm32f10x.h": "c",
+        "led.h": "c",
+        "inputcapture.h": "c",
+        "dma.h": "c",
+        "timer.h": "c",
+        "oledshow.h": "c",
+        "lightsensor.h": "c",
+        "myi2c.h": "c",
+        "cstddef": "c"
+    },
+    "clangd.arguments": [
+        "--compile-commands-dir=d:\\study\\c-code\\testproject2\\out\\test2\\Target_1"
+    ],
+    "cmake.sourceDirectory": "D:/study/c-code/testproject2/tmp"
+}
